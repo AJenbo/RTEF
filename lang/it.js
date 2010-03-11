@@ -40,7 +40,7 @@ var lblTextColor		= "Colore del testo";
 var lblBgColor			= "Colore di sfondo";
 var lblSearch			= "Cerca e Sostituisci";
 var lblInsertLink		= "Inserisci collegamento";
-var lblUnLink			= "Rimuovi collegamento";
+var lblUnLink			= "Remove link";
 var lblAddImage			= "Aggiungi immagine";
 var lblInsertTable		= "Inserisci tabella";
 var lblWordCount		= "Conteggio parole";
@@ -64,7 +64,7 @@ lblFont					+= "<option value=\"Courier New, Courier, mono\">Courier New</option
 lblFont					+= "<option value=\"Palatino Linotype\">Palatino Linotype</option>";
 lblFont					+= "<option value=\"Times New Roman, Times, serif\">Times New Roman</option>";
 lblFont					+= "<option value=\"Verdana, Arial, Helvetica, sans-serif\">Verdana</option>";
-var lblApplyFont		= "Applica font selezionato";
+var lblApplyFont		= "Apply selected font";
 // Size Dropdown
 var lblSize				= "<option value=\"\">Dimensione</option>";
 lblSize					+= "<option value=\"1\">1</option>";
@@ -75,8 +75,8 @@ lblSize					+= "<option value=\"5\">5</option>";
 lblSize					+= "<option value=\"6\">6</option>";
 lblSize					+= "<option value=\"7\">7</option>";
 //Size buttons
-var lblIncreasefontsize		= "Aumenta la dimensione dei caratteri";
-var lblDecreasefontsize		= "Diminuisce la dimensione dei caratteri";
+var lblIncreasefontsize		= "Increase Font Size";
+var lblDecreasefontsize		= "Decrease Font Size";
 // Alerts
 var lblSearchConfirm	= "La stringa cercata [SF] è stata trovata [RUNCOUNT] volte.\n\n"; // Leave in [SF], [RUNCOUNT] and [RW]
 lblSearchConfirm		+= "Sei sicuro di voler sostituire la stringa con [RW] ?\n";
@@ -87,10 +87,10 @@ var lblCountChar		= "Caratteri Disponibili";
 var lblCountCharWarn	= "Attenzione! Il contenuto è troppo lungo e potrebbe non essere salvato correttamente.";
 // Dialogs
 // Insert Link
-var lblLinkBlank		= "nuova finestra (_blank)";
-var lblLinkSelf			= "la stessa struttura (_self)";
-var lblLinkParent		= "struttura del genitore (_parent)";
-var lblLinkTop			= "prima struttura (_top)";
+var lblLinkBlank		= "new window (_blank)";
+var lblLinkSelf			= "same frame (_self)";
+var lblLinkParent		= "parent frame (_parent)";
+var lblLinkTop			= "first frame (_top)";
 var lblLinkType			= "Tipo del collegamento";
 var lblLinkOldA			= "Ancoraggio esistente";
 var lblLinkNewA			= "Nuovo ancoraggio";
@@ -101,9 +101,9 @@ var lblLinkOpenIn		= "Apri il collegamento in";
 var lblLinkVal0			= "Inserire un URL.";
 var lblLinkSubmit		= "OK";
 var lblLinkCancel		= "Annulla";
-var lblLinkRelative		= "relativo";
-var lblLinkEmail		= "Posta Electronica";
-var lblLinkDefault		= "Per difetto";
+var lblLinkRelative		= "relative";
+var lblLinkEmail		= "email";
+var lblLinkDefault		= "Default";
 // Insert Image
 var lblImageURL			= "URL dell\'immagine";
 var lblImageAltText		= "Testo alternativo";

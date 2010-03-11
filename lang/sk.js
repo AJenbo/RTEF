@@ -131,12 +131,12 @@ var lblSearchSubmit		= "OK";
 var lblSearchCancel		= "Zrušit";
 // Paste As Plain Text
 var lblPasteTextHint	= "Hint: To paste you can either right-click and choose \"Paste\" or use the key combination of Ctrl-V.";
-var lblPasteTextVal0	= "Please enter text.";
+var lblPasteTextVal0	= "Please enter text."
 var lblPasteTextSubmit	= "OK";
 var lblPasteTextCancel	= "Zrušit";
 // Paste from Word
 var lblPasteWordHint	= "Hint: To paste you can either right-click and choose \"Paste\" or use the key combination of Ctrl-V.";
-var lblPasteWordVal0	= "Please enter text.";
+var lblPasteWordVal0	= "Please enter text."
 var lblPasteWordSubmit	= "OK";
 var lblPasteWordCancel	= "Zrušit";
 // non-designMode

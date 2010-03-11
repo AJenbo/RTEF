@@ -40,7 +40,7 @@ var lblTextColor		= "Color de fuente";
 var lblBgColor			= "Color de fondo";
 var lblSearch			= "Buscar y reemplazar";
 var lblInsertLink		= "Insertar hipervínculo";
-var lblUnLink			= "Remover enlace";
+var lblUnLink			= "Remove link";
 var lblAddImage			= "Agregar imagen";
 var lblInsertTable		= "Insertar tabla";
 var lblWordCount		= "Contar palabras";
@@ -65,7 +65,7 @@ lblFont					+= "<option value=\"Courier New, Courier, mono\">Courier New</option
 lblFont					+= "<option value=\"Palatino Linotype\">Palatino Linotype</option>";
 lblFont					+= "<option value=\"Times New Roman, Times, serif\">Times New Roman</option>";
 lblFont					+= "<option value=\"Verdana, Arial, Helvetica, sans-serif\">Verdana</option>";
-var lblApplyFont		= "Aplicar fuente seleccionada";
+var lblApplyFont		= "Apply selected font";
 // Size Dropdown
 var lblSize				= "<option value=\"\">Tamaño</option>";
 lblSize					+= "<option value=\"1\">1</option>";
@@ -76,8 +76,8 @@ lblSize					+= "<option value=\"5\">5</option>";
 lblSize					+= "<option value=\"6\">6</option>";
 lblSize					+= "<option value=\"7\">7</option>";
 //Size buttons
-var lblIncreasefontsize		= "Incrementar Tamaño de Fuente";
-var lblDecreasefontsize		= "Disminuir Tamaño de Fuente";
+var lblIncreasefontsize		= "Increase Font Size";
+var lblDecreasefontsize		= "Decrease Font Size";
 // Alerts
 var lblSearchConfirm	= "La expresión de busqueda [SF] fue encontrada [RUNCOUNT] veces.\n\n"; // Leave in [SF], [RUNCOUNT] and [RW]
 lblSearchConfirm		+= "¿Está seguro que desea reemplazar estas entradas con [RW]?\n";
@@ -104,7 +104,7 @@ var lblLinkSubmit		= "Insertar";
 var lblLinkCancel		= "Cancelar";
 var lblLinkRelative		= "Relativo";
 var lblLinkEmail		= "Correo electrónico";
-var lblLinkDefault		= "Predeterminado";
+var lblLinkDefault		= "Default";
 // Insert Image
 var lblImageURL			= "URL de la Imagen";
 var lblImageAltText		= "Texto alternativo";

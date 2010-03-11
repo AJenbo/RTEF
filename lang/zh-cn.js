@@ -16,8 +16,8 @@ var lblSpellCheck		= "检查拼写";
 var lblCut				= "剪切";
 var lblCopy				= "复制";
 var lblPaste			= "粘贴";
-var lblPasteText		= "粘贴为纯文本";
-var lblPasteWord		= "粘贴为从字";
+var lblPasteText		= "Paste as Plain Text";
+var lblPasteWord		= "Paste From Word";
 var lblUndo				= "撤销";
 var lblRedo				= "重做";
 var lblHR				= "水平线";
@@ -40,11 +40,11 @@ var lblTextColor		= "文本颜色";
 var lblBgColor			= "背景颜色";
 var lblSearch			= "查找和替换";
 var lblInsertLink		= "插入链接";
-var lblUnLink			= "删除链接";
+var lblUnLink			= "Remove link";
 var lblAddImage			= "添加图片";
 var lblInsertTable		= "插入表格";
-var lblWordCount		= "字数";
-var lblUnformat			= "恢复被意外格式化的磁盘";
+var lblWordCount		= "Word Count";
+var lblUnformat			= "Unformat";
 // Dropdowns
 // Format Dropdown
 var lblFormat			= "<option value=\"\" selected=\"selected\">格式段落</option>";
@@ -64,7 +64,7 @@ lblFont					+= "<option value=\"Courier New, Courier, mono\">Courier New</option
 lblFont					+= "<option value=\"Palatino Linotype\">Palatino Linotype</option>";
 lblFont					+= "<option value=\"Times New Roman, Times, serif\">Times New Roman</option>";
 lblFont					+= "<option value=\"Verdana, Arial, Helvetica, sans-serif\">Verdana</option>";
-var lblApplyFont		= "适用于选定字体";
+var lblApplyFont		= "Apply selected font";
 // Size Dropdown
 var lblSize				= "<option value=\"\">大小</option>";
 lblSize					+= "<option value=\"1\">1</option>";
@@ -75,22 +75,22 @@ lblSize					+= "<option value=\"5\">5</option>";
 lblSize					+= "<option value=\"6\">6</option>";
 lblSize					+= "<option value=\"7\">7</option>";
 //Size buttons
-var lblIncreasefontsize		= "放大字体";
-var lblDecreasefontsize		= "缩小字体";
+var lblIncreasefontsize		= "Increase Font Size";
+var lblDecreasefontsize		= "Decrease Font Size";
 // Alerts
 var lblSearchConfirm	= "搜索结果 [SF]  [RUNCOUNT] 次.\n\n"; // Leave in [SF], [RUNCOUNT] and [RW]
 lblSearchConfirm		+= "确定要替换内容吗 [RW] ?\n";
 var lblSearchAbort		= "操作失败.";
 var lblSearchNotFound	= "无法查找.";
-var lblCountTotal		= "字数";
-var lblCountChar		= "可用汉字";
-var lblCountCharWarn	= "警告! 你的内容是太长了，可不能挽救正确";
+var lblCountTotal		= "Word Count";
+var lblCountChar		= "Available Characters";
+var lblCountCharWarn	= "Warning! Your content is too long and may not save correctly.";
 // Dialogs
 // Insert Link
-var lblLinkBlank		= "新窗口 (_blank)";
-var lblLinkSelf			= "同一帧 (_self)";
-var lblLinkParent		= "家长帧 (_parent)";
-var lblLinkTop			= "第一帧 (_top)";
+var lblLinkBlank		= "new window (_blank)";
+var lblLinkSelf			= "same frame (_self)";
+var lblLinkParent		= "parent frame (_parent)";
+var lblLinkTop			= "first frame (_top)";
 var lblLinkType			= "链接类型";
 var lblLinkOldA			= "当前锚记";
 var lblLinkNewA			= "新锚记";
@@ -101,9 +101,9 @@ var lblLinkOpenIn		= "打开链接";
 var lblLinkVal0			= "请输入 url.";
 var lblLinkSubmit		= "确定";
 var lblLinkCancel		= "取消";
-var lblLinkRelative		= "相对的";
-var lblLinkEmail		= "发电子信函";
-var lblLinkDefault		= "默认";
+var lblLinkRelative		= "relative";
+var lblLinkEmail		= "email";
+var lblLinkDefault		= "Default";
 // Insert Image
 var lblImageURL			= "图片URL";
 var lblImageAltText		= "可替换文本";
